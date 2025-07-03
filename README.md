@@ -62,7 +62,7 @@ e-commerce-platform-cpp/
 ## Author
 
 **Laiba Majeed**  
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)  
+- [LinkedIn](https://www.linkedin.com/in/laibah-majeed/)  
 - BS Software Engineering Student
 
 ---
