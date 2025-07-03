@@ -37,28 +37,6 @@ e-commerce-platform-cpp/
 
 ---
 
-## How to Run
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/laibah-majeed/e-commerce-platform-cpp.git
-   ```
-2. **Navigate to the project directory:**
-   ```bash
-   cd e-commerce-platform-cpp
-   ```
-3. **Compile the C++ code:**
-   ```bash
-   g++ "E-Commerce Platform DSA-C++ Project.cpp" -o ecommerce
-   ```
-4. **Run the application:**
-   ```bash
-   ./ecommerce
-   ```
-
----
-
-
 ## Author
 
 **Laiba Majeed**  
@@ -73,4 +51,4 @@ To solve real-world problems using advanced programming and data structures, and
 
 ---
 
-##  Feel free to fork, star, and contribute!
+##  Feel free to explore the repository and contribute!
